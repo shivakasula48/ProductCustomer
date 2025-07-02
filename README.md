@@ -85,7 +85,7 @@ Or download the ZIP file from GitHub and extract it to a folder.
   ### 4. **Create Database and Tables**
 
   
-      In phpMyAdmin, run the following SQL script:
+In phpMyAdmin, run the following SQL script:
 
 
 ```sql
