@@ -50,28 +50,63 @@ A Java-based desktop application built using **Java Swing** and **MySQL**, desig
 
 ## 🧪 How to Run the Project
 
-1. **Clone the repository:**
+### 1. **Clone the repository:**
 ```bash
 git clone https://github.com/shivakasula48/ProductCustomer.git
 ```
 Or download the ZIP file from GitHub and extract it to a folder.
 
-2. **Open the Project in NetBeans**
 
-1.Open NetBeans IDE
+### 2. **Open the Project in NetBeans**
 
-2.Go to: ` File → Open Project `
+      1.Open NetBeans IDE
 
-3.Navigate to the folder where the project is cloned or extracted
+      2.Go to: ` File → Open Project `
 
-4.Select the folder ` ProductCustomer ` and click Open
+      3.Navigate to the folder where the project is cloned or extracted
+
+      4.Select the folder ` ProductCustomer ` and click Open
 
 
 
-3. **Start MySQL Server (via XAMPP)**
+### 3. **Start MySQL Server (via XAMPP)**
 
-1.Open XAMPP Control Panel
+      1.Open XAMPP Control Panel
 
-2.Click Start next to MySQL
+      2.Click Start next to MySQL
 
-3.Open your browser and go to: `http://localhost/phpmyadmin`
+      3.Open your browser and go to: `http://localhost/phpmyadmin`
+
+
+
+
+
+
+  ### 4. **Create Database and Tables**
+
+  
+      In phpMyAdmin, run the following SQL script:
+
+
+```sql
+CREATE DATABASE testdb;
+USE testdb;
+
+CREATE TABLE products (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255),
+    category VARCHAR(255),
+    price DOUBLE,
+    quantity INT,
+    description TEXT
+);
+
+CREATE TABLE customers (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255),
+    gender VARCHAR(10),
+    email VARCHAR(255),
+    phone VARCHAR(15),
+    address TEXT
+);
+```
