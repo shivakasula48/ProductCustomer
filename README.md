@@ -152,7 +152,7 @@ You can now:
 
   - Add Products and Customers
 
-  -Delete Customers and Products
+  - Delete Customers and Products
 
   - Perform all actions via a clean GUI
 
