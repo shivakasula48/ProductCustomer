@@ -50,6 +50,9 @@ A Java-based desktop application built using **Java Swing** and **MySQL**, desig
 
 ## 🧪 How to Run the Project
 
-1. **Clone the repository:**
+ **Clone the repository:**
 ```bash
 git clone https://github.com/shivakasula48/ProductCustomer.git
+```
+Or download the ZIP file from GitHub and extract it to a folder.
+
