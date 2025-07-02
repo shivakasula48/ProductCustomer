@@ -122,24 +122,24 @@ CREATE TABLE customers (
 
 2.In NetBeans:
 
-  **Right-click your project → Properties**
+  - Right-click your project → Properties
 
-  **Go to Libraries → Compile**
+  - Go to Libraries → Compile
 
-  **Click Add JAR/Folder**
+  - Click Add JAR/Folder
 
-  **Select the downloaded `mysql-connector-j-8.x.xx.jar` file**
+  - Select the downloaded `mysql-connector-j-8.x.xx.jar` file
 
   
 
 ### 6. **Run the Application**
 Run these main files depending on your need:
 
-  **`AddAndDeleteProducts.java` → For Product Add/Delete**
+  - `AddAndDeleteProducts.java` → For Product Add/Delete
 
-  **`AddCustomer.java` → To Add a Customer**
+  - `AddCustomer.java` → To Add a Customer
 
-  **`CustomerDelete.java` → To Delete a Customer**
+  - `CustomerDelete.java` → To Delete a Customer
 
 👉 Right-click the file in Projects pane → Click Run File
 
@@ -150,10 +150,10 @@ Your desktop application is now live and connected to your local MySQL database.
 
 You can now:
 
-  **Add Products and Customers**
+  - Add Products and Customers
 
-  **Delete Customers and Products**
+  -Delete Customers and Products
 
-  **Perform all actions via a clean GUI**
+  - Perform all actions via a clean GUI
 
     
