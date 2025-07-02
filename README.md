@@ -173,9 +173,12 @@ You can now:
 
 # 👨‍💻 Author
 Kasula Shiva
+
 B.Tech CSE Cybersecurity
+
 Sir Padampat Singhania University, Udaipur
-GitHub: @shivakasula48
+
+GitHub: `https://github.com/shivakasula48`
 
 
 # License
