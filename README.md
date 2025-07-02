@@ -59,23 +59,23 @@ Or download the ZIP file from GitHub and extract it to a folder.
 
 ### 2. **Open the Project in NetBeans**
 
-      1.Open NetBeans IDE
+1.Open NetBeans IDE
 
-      2.Go to: ` File → Open Project `
+2.Go to: ` File → Open Project `
 
-      3.Navigate to the folder where the project is cloned or extracted
+3.Navigate to the folder where the project is cloned or extracted
 
-      4.Select the folder ` ProductCustomer ` and click Open
+4.Select the folder ` ProductCustomer ` and click Open
 
 
 
 ### 3. **Start MySQL Server (via XAMPP)**
 
-      1.Open XAMPP Control Panel
+1.Open XAMPP Control Panel
 
-      2.Click Start next to MySQL
+2.Click Start next to MySQL
 
-      3.Open your browser and go to: `http://localhost/phpmyadmin`
+3.Open your browser and go to: `http://localhost/phpmyadmin`
 
 
 
