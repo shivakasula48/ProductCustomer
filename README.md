@@ -158,9 +158,32 @@ You can now:
 
 ---
 ## OutPut
-![Image](https://github.com/user-attachments/assets/d222f83c-29b7-4dfc-b308-b70e71242239)
 
+
+<img width="334" alt="Image" src="https://github.com/user-attachments/assets/fc804caa-0591-4cd2-8dd8-823d01cb2f0f" />
+
+<img width="349" alt="Image" src="https://github.com/user-attachments/assets/daf57a48-874c-46ed-ab9b-482ba7667546" />
+
+<img width="344" alt="Image" src="https://github.com/user-attachments/assets/14a2a75a-5cef-4e21-9adc-692a0bf163d5" />
 
 <img width="347" alt="Image" src="https://github.com/user-attachments/assets/201773f5-9c27-4031-8394-bc7b9135827f" />
+
+
+
+
+# 👨‍💻 Author
+Kasula Shiva
+B.Tech CSE Cybersecurity
+Sir Padampat Singhania University, Udaipur
+GitHub: @shivakasula48
+
+
+# License
+
+This project is open-source and free to use by anyone for personal or educational purposes.  
+Feel free to modify, distribute, and use the code as long as proper credit is given to the original author, **Kasula Shiva**.
+
+
+
 
 
